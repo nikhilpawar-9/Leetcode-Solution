@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0371-sum-of-two-integers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0728-self-dividing-numbers/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
