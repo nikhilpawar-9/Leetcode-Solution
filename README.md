@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0414-third-maximum-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0414-third-maximum-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
