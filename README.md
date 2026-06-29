@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
