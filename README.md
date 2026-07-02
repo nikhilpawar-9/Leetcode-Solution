@@ -232,8 +232,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
