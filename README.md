@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
+| [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -247,5 +249,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0386-lexicographical-numbers/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
