@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Depth-First Search
