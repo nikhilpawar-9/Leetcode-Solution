@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -247,10 +250,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Breadth-First Search
