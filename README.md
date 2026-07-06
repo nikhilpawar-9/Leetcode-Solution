@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Enumeration
