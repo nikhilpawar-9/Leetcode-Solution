@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0415-add-strings/) | Easy |
+| [0541-reverse-string-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0344-reverse-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0541-reverse-string-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
