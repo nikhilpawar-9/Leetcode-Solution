@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0182-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
