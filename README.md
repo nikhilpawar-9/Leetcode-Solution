@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
