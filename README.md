@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Sorting
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0415-add-strings/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
