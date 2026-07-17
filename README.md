@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [2652-sum-multiples](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2652-sum-multiples/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1952-three-divisors/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
