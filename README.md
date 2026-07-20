@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1260-shift-2d-grid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1260-shift-2d-grid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0682-baseball-game/) | Easy |
+| [1260-shift-2d-grid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
