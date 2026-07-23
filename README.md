@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -305,5 +307,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
