@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2951-find-the-peaks](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2951-find-the-peaks/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3174-clear-digits](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3174-clear-digits/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
