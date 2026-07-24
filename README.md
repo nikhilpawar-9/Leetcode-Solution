@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0492-construct-the-rectangle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1837-sum-of-digits-in-base-k](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
