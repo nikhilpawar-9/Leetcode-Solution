@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0079-word-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0079-word-search/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
