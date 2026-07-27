@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
