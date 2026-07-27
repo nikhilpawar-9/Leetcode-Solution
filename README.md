@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
