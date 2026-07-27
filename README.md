@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
+| [2895-minimum-processing-time](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2895-minimum-processing-time/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2951-find-the-peaks](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2951-find-the-peaks/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2895-minimum-processing-time](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2895-minimum-processing-time/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2895-minimum-processing-time](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2895-minimum-processing-time/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
