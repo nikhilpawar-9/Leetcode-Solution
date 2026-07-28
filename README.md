@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2895-minimum-processing-time](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2895-minimum-processing-time/) | Medium |
