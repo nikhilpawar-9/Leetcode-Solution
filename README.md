@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
