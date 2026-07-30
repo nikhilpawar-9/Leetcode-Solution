@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
+| [0392-is-subsequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0434-number-of-segments-in-a-string/) | Easy |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0344-reverse-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
+| [0392-is-subsequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0392-is-subsequence/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
