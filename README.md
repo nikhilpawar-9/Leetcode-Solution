@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0877-stone-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1837-sum-of-digits-in-base-k](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0392-is-subsequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0392-is-subsequence/) | Easy |
+| [0877-stone-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,4 +374,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
