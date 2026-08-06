@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
