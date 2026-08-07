@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
