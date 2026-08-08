@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
