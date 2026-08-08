@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
