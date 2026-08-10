@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2895-minimum-processing-time](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2895-minimum-processing-time/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
