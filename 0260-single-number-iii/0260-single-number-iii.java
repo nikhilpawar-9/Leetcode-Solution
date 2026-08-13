@@ -1,14 +1,19 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        Set<Integer> set = new HashSet<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
         for(int num : nums){
-            if(set.contains(num)) set.remove(num);
-            else set.add(num);
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
-        int arr[] = new int[set.size()];
+        List<Integer> list = new ArrayList<>();
+        for(int num : nums){
+            if(map.get(num) == 1){
+                list.add(num);
+            }
+        }
+        int arr[] = new int[list.size()];
         int i = 0;
-        for(int num : set){
-            arr[i] = num;
+        for(int n : list){
+            arr[i] = n;
             i++;
         }
         return arr;
