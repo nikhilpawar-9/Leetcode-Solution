@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1800-maximum-ascending-subarray-sum](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
