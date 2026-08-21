@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
+| [0495-teemo-attacking](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0605-can-place-flowers/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0415-add-strings/) | Easy |
+| [0495-teemo-attacking](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0495-teemo-attacking/) | Easy |
 | [0682-baseball-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
