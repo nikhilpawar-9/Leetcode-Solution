@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0575-distribute-candies](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0682-baseball-game/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0575-distribute-candies](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0575-distribute-candies/) | Easy |
 | [0819-most-common-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
