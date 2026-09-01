@@ -1,0 +1,9 @@
+class Solution {
+    public int distributeCandies(int[] nums) {
+        int n = nums.length / 2;
+        Set<Integer> set = new HashSet<>();
+        for(int num : nums) set.add(num);
+        if(set.size() > n) return n;
+        else return set.size();
+    }
+}
