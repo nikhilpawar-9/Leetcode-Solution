@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2315-count-asterisks](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2315-count-asterisks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
