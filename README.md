@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0819-most-common-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
+| [0860-lemonade-change](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0409-longest-palindrome](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0605-can-place-flowers/) | Easy |
+| [0860-lemonade-change](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0860-lemonade-change/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2895-minimum-processing-time](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2895-minimum-processing-time/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
