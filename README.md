@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
