@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3270-find-the-key-of-the-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Matrix
