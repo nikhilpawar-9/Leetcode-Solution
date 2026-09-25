@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3174-clear-digits/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3174-clear-digits/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Heap (Priority Queue)
