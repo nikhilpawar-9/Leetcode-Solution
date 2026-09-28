@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0682-baseball-game/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -486,4 +488,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1859-sorting-the-sentence/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
