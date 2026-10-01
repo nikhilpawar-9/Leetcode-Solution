@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1051-height-checker](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -430,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0819-most-common-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
