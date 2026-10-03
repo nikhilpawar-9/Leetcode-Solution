@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2951-find-the-peaks](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2951-find-the-peaks/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2815-max-pair-sum-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
