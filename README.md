@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2315-count-asterisks](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2315-count-asterisks/) | Easy |
