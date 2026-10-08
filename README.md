@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0682-baseball-game/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
@@ -536,5 +538,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
