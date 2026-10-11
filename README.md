@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
+| [0771-jewels-and-stones](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
