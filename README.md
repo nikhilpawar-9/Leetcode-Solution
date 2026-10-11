@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-find-the-array-concatenation-value](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2895-minimum-processing-time](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2895-minimum-processing-time/) | Medium |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1952-three-divisors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Counting
