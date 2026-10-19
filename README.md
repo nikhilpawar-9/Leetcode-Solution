@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2895-minimum-processing-time](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2895-minimum-processing-time/) | Medium |
