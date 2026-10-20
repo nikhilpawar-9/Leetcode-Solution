@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
